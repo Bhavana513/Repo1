@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 9458-8C1D
-
- Directory of C:\Users\bhava\Desktop\MyProject
-
-04-01-2020  10:11    <DIR>          .
-04-01-2020  10:11    <DIR>          ..
-04-01-2020  10:11                 0 first.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  190,406,463,488 bytes free
+ Hello Bhavana Enjoying the git.You are devOps.Have A nice Day
